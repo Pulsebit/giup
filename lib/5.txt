@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-01 16:51:50,1
+2025-02-01 16:51:50,https://cn-zjjh-ct-04-32.bilivideo.com/live-bvc/499752/live_2593213_9485768/index.m3u8?expires=1738590753&len=0&oi=3071509618&pt=web&qn=10000&trid=100719482f5398571b3739e754251667a0bc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=0b3ddd713d358a07cc83ce58ee604f57&site=97c42209323551b1624eca5761edad96&free_type=0&mid=593714920&sche=ban&bvchls=1&sid=cn-zjjh-ct-04-32&chash=1&bmt=1&sg=lr&trace=17&isp=ct&rg=South&pv=Guangdong&sk=fbf92b07ebbb88e9f8f47d9d0b8956ab&suffix=origin&hot_cdn=57345&sl=2&pp=rtmp&p2p_type=1&source=puv3_onetier&flvsk=63b0113bd36247f7cbf2acd6adb340c2&deploy_env=prod&score=52&info_source=origin&origin_bitrate=166553&vd=nc&zoneid_l=151371777&sid_l=live_2593213_9485768&src=puv3&order=1
 
 📺央视频道,#genre#
 CCTV-1,rtsp://125.88.54.199/PLTV/88888905/224/3221227610/10000100000000060000000004462931_0.smil?rrsip=125.88.104.40,rrsip=125.88.70.140&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E5VwE903SqDezivyoz2Hw8w%7EyMUhbHYWJC7a1CZCYtU8ZT3uZIidi2w_703dx6RZWLiz7QeKq6CQBoTmXQ59j_4f_lxdj0PaU2ZHl4sUk7DxftMlATy5HN0erV88WS4XICU%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250120104107%2C6135943%2C10.71.22.97%2C20250120104107%2C02000006000000052015012300000005%2C6135943%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000004462931_0%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHBsqvh54wJiammoBezdoulVAotkDi2wvIcXbmy86MDiSej7yfjCEeP8JyRiQY0_RaWLVaj7J4hnlEkwNljNGcVCtzMqB5sEXF1L3Q7WLhSnRzI5ErX9MZPAWtHWoYG9vTm4Hv3Zk9QrDa_4dZlMVBnCZpljAyrtcKfLs45A2-sN0ADtXF6g3gNRiPZADZgkYBHf4HbNzVqaXNDzd2MhfZAAAA
@@ -54,11 +54,11 @@ CCTV-4,http://61.136.67.238:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&
 CCTV-4,http://58.17.116.69:9908/tsfile/live/0001_4.m3u8
 CCTV-4,http://61.163.181.78:9901/tsfile/live/0004_1.m3u8
 CCTV-4,http://58.220.219.14:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,rtsp://125.88.54.199/PLTV/88888905/224/3221229805/10000100000000060000000009924448_0.smil?rrsip=125.88.104.40,rrsip=125.88.70.140&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E1WakWDxRrBapup4vPn9OqQ%7EyMUhbHYWJC7a1CZCYtU8ZT3uZIidi2w_703dx6RZWLiz7QeKq6CQBoTmXQ59j_4f_lxdj0PaU2ZHl4sUk7DxftMlATy5HN0erV88WS4XICU%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250120104107%2C6135943%2C10.71.22.97%2C20250120104107%2C02000006000000052019032399000006%2C6135943%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000009924448_0%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHBsqvh54wJiammoBezdoulVAotkDi2wvIcXbmy86MDiSej7yfjCEeP8JyRiQY0_RaWLVaj7J4hnlEkwNljNGcVCtzMqB5sEXF1L3Q7WLhSnRzI5ErX9MZPAWtHWoYG9vTm4Hv3Zk9QrDa_4dZlMVBnCZpljAyrtcKfLs45A2-sN0ADtXF6g3gNRiPZADZgkYBHf4HbNzVqaXNDzd2MhfZAAAA
+CCTV-5,rtsp://125.88.54.199/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?rrsip=125.88.104.40,rrsip=125.88.70.140&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ekvoqr0hqC3CU6srJ4FK2Iw%7EyMUhbHYWJC7a1CZCYtU8ZT3uZIidi2w_703dx6RZWLiz7QeKq6CQBoTmXQ59j_4f_lxdj0PaU2ZHl4sUk7DxftMlATy5HN0erV88WS4XICU%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250120104107%2C6135943%2C10.71.22.97%2C20250120104107%2C02000006000000052019032399000002%2C6135943%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000009924447_0%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHBsqvh54wJiammoBezdoulVAotkDi2wvIcXbmy86MDiSej7yfjCEeP8JyRiQY0_RaWLVaj7J4hnlEkwNljNGcVCtzMqB5sEXF1L3Q7WLhSnRzI5ErX9MZPAWtHWoYG9vTm4Hv3Zk9QrDa_4dZlMVBnCZpljAyrtcKfLs45A2-sN0ADtXF6g3gNRiPZADZgkYBHf4HbNzVqaXNDzd2MhfZAAAA
 CCTV-5,http://liushizupu.site:35455/gaoma/cctv5.m3u8
 CCTV-5,http://221.14.190.237:9003/hls/5/index.m3u8
 CCTV-5,http://goo.bkpcp.top/mg/cctv5
-CCTV5,http://218.29.168.146:352/tsfile/live/0005_1.m3u8
+CCTV-5,http://218.29.168.146:352/tsfile/live/0005_1.m3u8
 CCTV-5,http://221.2.148.205:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://219.128.121.202:59901/tsfile/live/1004_1.m3u8?key=txiptv
 CCTV-5,http://183.66.15.146:60901/tsfile/live/0005_1.m3u8?key=txiptv
@@ -174,7 +174,7 @@ CCTV-12,http://219.135.180.210:18888/hls/12/index.m3u8
 CCTV-12,http://61.136.67.238:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://58.220.219.14:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://58.17.116.69:9908/tsfile/live/0001_13.m3u8
-CCTV-13,rtsp://125.88.54.199/PLTV/88888905/224/3221227258/10000100000000060000000001066424_0.smil?rrsip=125.88.104.40,rrsip=125.88.70.140&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EhNpFAZu-DnMa6evj-0YGRA%7EyMUhbHYWJC7a1CZCYtU8ZT3uZIidi2w_703dx6RZWLiz7QeKq6CQBoTmXQ59j_4f_lxdj0PaU2ZHl4sUk7DxftMlATy5HN0erV88WS4XICU%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250120104107%2C6135943%2C10.71.22.97%2C20250120104107%2C02000000000000050000000000000063%2C6135943%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000001066424_0%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHBsqvh54wJiammoBezdoulVAotkDi2wvIcXbmy86MDiSej7yfjCEeP8JyRiQY0_RaWLVaj7J4hnlEkwNljNGcVCtzMqB5sEXF1L3Q7WLhSnRzI5ErX9MZPAWtHWoYG9vTm4Hv3Zk9QrDa_4dZlMVBnCZpljAyrtcKfLs45A2-sN0ADtXF6g3gNRiPZADZgkYBHf4HbNzVqaXNDzd2MhfZAAAA
+CCTV-13,rtsp://125.88.54.199/PLTV/88888905/224/3221230039/10000100000000060000000011392793_0.smil?rrsip=125.88.104.40,rrsip=125.88.70.140&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ErCMmU0JwM5lgkk-kujhgig%7EyMUhbHYWJC7a1CZCYtU8ZT3uZIidi2w_703dx6RZWLiz7QeKq6CQBoTmXQ59j_4f_lxdj0PaU2ZHl4sUk7DxftMlATy5HN0erV88WS4XICU%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250120104107%2C6135943%2C10.71.22.97%2C20250120104107%2C02000006000000052020112699000001%2C6135943%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000011392793_0%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHBsqvh54wJiammoBezdoulVAotkDi2wvIcXbmy86MDiSej7yfjCEeP8JyRiQY0_RaWLVaj7J4hnlEkwNljNGcVCtzMqB5sEXF1L3Q7WLhSnRzI5ErX9MZPAWtHWoYG9vTm4Hv3Zk9QrDa_4dZlMVBnCZpljAyrtcKfLs45A2-sN0ADtXF6g3gNRiPZADZgkYBHf4HbNzVqaXNDzd2MhfZAAAA
 CCTV-13,http://218.15.20.81:3388/hls/8/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://221.14.190.237:9003/hls/13/index.m3u8
@@ -1398,12 +1398,7 @@ NBA经典,https://www.freetv.top/migu/788815380.m3u8?migutoken=a9210600d067da02a
 
 熊猫频道,#genre#
 熊猫频道1,https://www.freetv.top/migu/608933610.m3u8?migutoken=60e61b7ae018bbde312da210cc57092db04ade8c3d8f98a636b14a5c60f9cbab5d47f8367de255ad0c976fc53cf863fde253267e2200a542eabc07f5520390bcc108268c815eee2cbd3fe9204c
-熊猫频道2,https://www.freetv.top/migu/608933640.m3u8?migutoken=e38297c7b0e488eedf1803132af1669784c4842fb5dc22c1ecc7e2976ddc1073c279d98446902f251b22182b4fee3010a4dd77a6066288a30ecedac91b151b9511047d3057b7a1907ea1d952c4
-熊猫频道3,https://www.freetv.top/migu/608934619.m3u8?migutoken=0c00abd612338537fbd2b9da0a70f3a7ca5d2c4b6fa847468c1bea870a41a2b8089492009c5fe7074432ec148673c6a91583cd86710fec4c1f552fb81c8d78e70cfd0ad2f049b550b4b2508998
-熊猫频道4,https://www.freetv.top/migu/608934721.m3u8?migutoken=bc8252d15f697dff6acb2747359e30707727b7e367e1261d9af7671ae721501af88b262d3e806bcd266ce64977634e9d331185d369f49460bbe615d96d4c1ba2ff3c48de6aeed7f4a57b824498
-熊猫频道5,https://www.freetv.top/migu/608935104.m3u8?migutoken=cded22a7306be1ee526dcf98a437cc764353e0b82371bfea43425b5de021e65a9c89eba8134c7cf690aab7dc3f0261c0b3f61145162e2cd6d36982707f6048fa8b171fda0951b004dd99d5997c
-熊猫频道6,https://www.freetv.top/migu/608935797.m3u8?migutoken=f5494e8d33e9b2723c4398627e444d7b16d3719d0bf4e6615d5d16116a46ae281983356cec9487ffcc46da9b751ad889996ead7c7408f7f41c3d05d39fe951809421362c38ff53be47895efda5
-熊猫频道7,https://www.freetv.top/migu/609169286.m3u8?migutoken=5c8b2e1cc55b1263ecbda9ced241f2d59fa71222ff1e2c81237c094b930f7ce452cd8b5dd92ab5946b54be42abd8bb5ef21a056ead4b26f8a7982b38c03d33d304086af2dca17f9655964003b5
+
 
 直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -1415,3 +1410,30 @@ NBA经典,https://www.freetv.top/migu/788815380.m3u8?migutoken=a9210600d067da02a
 音乐调频广播,http://120.55.49.231:3095/rtp/233.50.201.82:5140
 
 📢广播,#genre#
+广东新闻广播,https://live.ximalaya.com/radio-first-page-app/live/245/64.m3u8?transcode=ts
+广东羊城交通台,https://live.ximalaya.com/radio-first-page-app/live/248/64.m3u8?transcode=ts
+广东珠江经济电台,https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts
+广州新闻资讯广播,https://live.ximalaya.com/radio-first-page-app/live/256/64.m3u8?transcode=ts
+广州新闻电台,http://live.xmcdn.com/live/256/64.m3u8
+广州汽车音乐电台,http://live.xmcdn.com/live/257/64.m3u8
+广州交通电台FM106,http://ls.qingting.fm/live/4955.m3u8
+CNR中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR神州之声,https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+环球资讯广播,https://sk.cri.cn/905.m3u8
+CNR台海之声,https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR大湾区之声,https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR香港之声,https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR乡村之声,https://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR交通广播,https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR民族之声,https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR文艺之声,https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR老年之声,https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR阅读之声,https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+英语资讯广播,https://sk.cri.cn/am846.m3u8
